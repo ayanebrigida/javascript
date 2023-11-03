@@ -1,0 +1,14 @@
+o + /concatenação
+${} /template string /melhor
+
+Converter string em number
+	número inteiro: Number.parseInt (n)
+	número real: Number.parseFloat (n)
+	automático: Number (n)
+
+Converter number em string
+	String (n)
+	n.toString()
+
+
+	
