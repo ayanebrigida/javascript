@@ -10,5 +10,8 @@ Converter number em string
 	String (n)
 	n.toString()
 
+Texto com caixa de resposta
+	window.prompt(' ')
 
-	
+Texto aparece na tela
+	document.write	
